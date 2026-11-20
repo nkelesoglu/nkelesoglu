@@ -1,6 +1,6 @@
 # Hi, I'm Nur Keleşoğlu 👋
 
-**Research Assistant | Generative AI | Neuro-Symbolic AI | Machine Learning**
+**Research Assistant | Generative AI | Neuro-Symbolic AI | Machine Learning | Network Traffic | IoT**
 
 I am a Research Assistant at the **Institute of Theoretical and Applied Informatics, Polish Academy of Sciences (IITiS PAN)** in Gliwice, Poland.
 
